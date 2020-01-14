@@ -1,4 +1,18 @@
-01
-02
-03
-44444
+01. git init 
+깃을 초기화
+02. git add
+깃을 통해 관리를 한다.
+03. git commit -m "나의메세지"
+04. git log
+깃 확인
+04. git reset [id] --hard
+이전 버전으로 돌아간다.
+05. git remote
+서버와 연동
+06. git push - 
+서버에 올리다
+07. git pull
+서버의 버젼을 내려받는다.
+
+08. git status
+git 상태 확인
